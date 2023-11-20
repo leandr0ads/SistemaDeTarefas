@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using SistemaDeTarefas.Models;
 
-namespace SistemaDeTarefas.Data.Map
+namespace SistemaDeTarefas.Map
 {
     public class TarefaMap : IEntityTypeConfiguration<TarefaModel>
     {
